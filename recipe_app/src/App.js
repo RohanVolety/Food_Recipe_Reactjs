@@ -4,8 +4,8 @@ import './App.css';
 
 const App=()=>{
 
-const APP_ID = "13725298";
-const APP_KEY="c1cb45343425afb775752f496de92cd4";
+const APP_ID = "";
+const APP_KEY="";
 //const exampleReq=`https://api.edamam.com/search?q=chicken&app_id=${APP_ID}&app_key=${APP_KEY}`;
 const [recipes,setRecipes]=useState([]);
 const[search,setSearch]=useState('');
